@@ -1,0 +1,49 @@
+/*
+a.mainlinks {color:#FFFFFF;}
+a.mainlinks:link  {text-decoration: none; color: #FFFFFF;}
+a.mainlinks:visited {text-decoration: none; color: #FFFFFF;}
+a.mainlinks:hover {text-decoration: none; color: #FFFFFF;}
+a.mainlinks:active {text-decoration: none; color: #FFFFFF;}
+
+@font-face {
+    font-family: 'Woodbonnet';
+    src:url('./WoodBonnet-GrotesqueNo4.eot?#iefix');
+    src:url('./WoodBonnet-GrotesqueNo4.eot?#iefix') format('eot'),
+    url('./WoodBonnet-GrotesqueNo4.woff2') format('woff2'),
+    url('./WoodBonnet-GrotesqueNo4.woff') format('woff'),
+    url('./WoodBonnet-GrotesqueNo4.otf') format('opentype'),
+    url('./WoodBonnet-GrotesqueNo4.ttf') format('truetype'),
+    url('./WoodBonnet-GrotesqueNo4.svg#Woodbonnet') format('svg');
+}
+*/
+
+ol {
+    counter-reset: item 16;
+    margin-left: 0;
+    padding-left: 0;
+}
+li {
+    display: block;
+    margin-bottom: .5em;
+    margin-left: 2em;
+}
+li:before {
+    font-size: 30px;
+    color: #aaaaaa;
+    display: inline-block;
+    content: counter(item) ". ";
+    counter-increment: item -1;
+    width: 2em;
+    margin-left: -2em;
+}
+
+body {
+    margin: 10 auto;
+    /*font-family: 'Woodbonnet', Fallback, sans-serif;*/
+    font-family: sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    line-height: 30px;
+}

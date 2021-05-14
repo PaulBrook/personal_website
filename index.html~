@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+
+<html>
+  
+  <head>
+    <title>Publications</title>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand"
+	  rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" href="fav.ico" >
+    <meta name="description" content="">
+  </head>
+  
+  <body>
+    <ol reversed>
+      <li><a target="_blank" rel="noopener noreferrer"
+             href='https://ui.adsabs.harvard.edu/abs/2019arXiv191212939B/abstract'>Results
+          for the International Pulsar Timing Array Second Mock
+          Data Challenge: New Techniques and Challenges for the
+          Detection of Low-Frequency Gravitational-Wave
+          Signals.</a>
+        <br>
+        <b>2020</b>
+        <br>
+        Baker, P. T., <span style="font-size: 24px; color: #9b3739;">Brook, P. B.</span>, Fiore, W. C., Garver-Daniels, N.,
+        Kaiser, A. R., Lam, M. T., Shapiro-Albert, B. J., and Witt, C. A.
+        <br>
+        <i>Submitted to Physical Review D.</i>
+      </li>
+        <li><a target="_blank" rel="noopener noreferrer"
+               href='https://ui.adsabs.harvard.edu/abs/2020ApJ...900..102A/abstract'>Multimessenger
+               Gravitational-wave Searches with Pulsar Timing Arrays:
+               Application to 3C 66B Using the NANOGrav 11-year Data
+            Set. 
+	  </a>
+        <br>
+        <b>2020</b>
+        <br>
+Arzoumanian, Z., Baker, P. T., Brazier, A., <span style="font-size:
+	24px; color: #9b3739;">Brook, P. R.</span>,
+	Burke-Spolaor, S., Bécsy, B., Charisi, M.,
+	Chatterjee, S., Cordes, J. M., Cornish, N. J.,
+	Crawford, F., Cromartie, H. T., Crowter,
+	K., Decesar, M. E., Demorest, P. B., Dolch, T.,
+	Elliott, R. D., Ellis, J. A., Ferdman, R. D.,
+	Ferrara, E. C. Fonseca, E., Garver-Daniels,
+	N., Gentile, P. A., Good, D. C., Hazboun, J.
+	S., Islo, K., Jennings, R. J., Jones, M. L.,
+	Kaiser, A. R., Kaplan, D. L., Kelley, L. Z., Key,
+	J. S., Lam, M. T., Lazio, T. J. W., Levin,
+	L., Luo, J., Lynch, R. S., Madison, D. R.,
+	McLaughlin, M. A., Mingarelli, C. M. F., Ng, C.,
+	Nice, D. J., Pennucci, T. T., Pol, N. S., Ransom,
+	S. M., Ray, P. S., Shapiro-Albert, B. J., Siemens,
+	X., Simon, J., Spiewak, R., Stairs, I. H.,
+	Stinebring, D. R., Stovall, K., Swiggum, J. K.,
+	Taylor, S. R., Vallisneri, M., Vigeland, S. J.,
+	Witt, C. A., Zhu, W. W., NANOGrav Collaboration.
+	<br>
+        <i>The Astrophysical Journal, 900, 102.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer"
+             href='https://ui.adsabs.harvard.edu/abs/2020ApJ...893..112V/abstract'>Modeling
+             the Uncertainties of Solar System Ephemerides for Robust
+          Gravitational-wave Searches with Pulsar-timing Arrays.
+	</a>
+        <br>
+        <b>2020</b>
+        <br>
+	Vallisneri, M., Taylor, S. R., Simon, J., Folkner, W. M.,
+	Park, R. S., Cutler, C., Ellis, J. A., Lazio, T. J. W.,
+	Vigeland, S. J., Aggarwal, K., Arzoumanian, Z., Baker, P. T.,
+	Brazier, A., <span style="font-size: 24px; color:
+	#9b3739;">Brook, P. R.</span>, Burke-Spolaor, S., Chatterjee,
+	S., Cordes, J. M., Cornish, N. J., Crawford, F., Cromartie,
+	H. T. Crowter, K., DeCesar, M., Demorest, P. B., Dolch, T.,
+	Ferdman, R. D., Ferrara, E. C., Fonseca, E., Garver-Daniels,
+	N., Gentile, P., Good, D., Hazboun, J. S., Holgado, A. M.,
+	Huerta, E. A., Islo, K., Jennings, R., Jones, G., Jones,
+	M. L., Kaplan, D. L., Kelley, L. Z., Key, J. S., Lam, M. T.,
+	Levin, L., Lorimer, D. R., Luo, J., Lynch, R. S., Madison,
+	D. R., McLaughlin, M. A., McWilliams, S. T., Mingarelli,
+	C. M. F., Ng, C., Nice, D. J., Pennucci, T. T., Pol, N. S.,
+	Ransom, S. M., Ray, P. S., Siemens, X., Spiewak, R., Stairs,
+	I. H., Stinebring, D. R., Stovall, K., Swiggum, J. K., van
+	Haasteren, R., Witt, C. A., Zhu, W. W.
+	<br>
+        <i>The Astrophysical Journal, 893, 112.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer"
+	     href='https://ui.adsabs.harvard.edu/abs/2019arXiv190908644H/abstract'>The
+	  NANOGrav 11-Year Data Set: Evolution of Gravitational Wave
+	  Background Statistics.</a>
+	<br>
+	<b>2019</b>
+	<br>
+	Hazboun, J. S., Simon, J., Taylor, S. R., Lam, M. T.,
+	Vigeland, S. J., Islo, K., Key, J. S., Arzoumanian, Z., Baker,
+	P. T., Brazier, A., <span style="font-size: 24px; color:
+					 #9b3739;">Brook, P. R.</span>, Burke-Spolaor, S., Chatterjee, S., Cordes, J. M., Cornish, N. J., Crawford, F., Crowter, K.,
+	Cromartie, H. T., DeCesar, M., Demorest, P. B. Dolch, T.,
+	Ellis, J. A., Ferdman, R. D., Ferrara, E., Fonseca, E.,
+	Garver-Daniels, N., Gentile, P., Good, D., Holgado, A. M.,
+	Huerta, E. A., Jennings, R., Jones, G., Jones, M. L., Kaiser,
+	A. R., Kaplan, D. L., Kelley, L. Z., Lazio, T. J. W., Levin,
+	L., Lommen, A. N., Lorimer, D. R., Luo, J., Lynch, R. S.,
+	Madison, D. R., McLaughlin, M. A., McWilliams, S. T.,
+	Mingarelli, C. M. F., Ng, C., Nice, D. J., Pennucci, T. T.,
+	Pol, N. S., Ransom, S. M., Ray, P. S., Siemens, X., Spiewak,
+	R., Stairs, I. H., Stinebring, D. R., Stovall, K., Swiggum,
+	J., Turner, J. E., Vallisneri, M., van Haasteren, R., Witt,
+	C. A., and Zhu, W. W.
+	<br>
+	<i>The Astrophysical Journal, 890, 108.</i>
+      </li> 
+      <li><a target="_blank" rel="noopener noreferrer" href='https://ui.adsabs.harvard.edu/abs/2019arXiv190406759C/abstract'>A very massive neutron star: relativistic Shapiro delay
+	  measurements of PSR J0740+6620.</a>
+	<br>
+	<b>2019</b>
+	<br>
+	Cromartie, H. T., Fonseca,
+	E., Ransom, S. M., Demorest, P. B., Arzoumanian,
+	Z., Blumer, H., <span style="font-size: 24px; color: #9b3739;">Brook, P. R.</span>, DeCesar, M. E., Dolch,
+	T., Ellis, J. A., Ferdman, R. D., Ferrara,
+	E. C., Garver-Daniels, N., Gentile, P. A.,
+	Jones, M. L., Lam, M. T., Lorimer, D. R., Lynch,
+	R. S., McLaughlin, M. A., Ng, C., Nice, D. J.,
+	Pennucci, T. T., Spiewak, R., Stairs, I. H.,
+	Stovall, K., Swiggum, J. K., and Zhu, W.
+	<br>
+	<i>Nature Astronomy, 4, 72.</i>
+      </li> 
+      <li><a target="_blank" rel="noopener noreferrer"
+	     href='https://ui.adsabs.harvard.edu/abs/2019arXiv191108488A/abstract'>The
+	  NANOGrav 11-Year Data Set: Limits on Gravitational Wave Memory.</a>
+	<br>
+	<b>2019</b>
+	<br>
+	Aggarwal, K., Arzoumanian, Z., Baker, P. T., Brazier,
+	A., <span style="font-size: 24px; color: #9b3739;">Brook, P. R.</span>, Burke-Spolaor, S., Chatterjee, S., Cordes,
+	J. M., Cornish, N. J., Crawford, F., Cromartie, H. T.,
+	Crowter, K., Decesar, M., Demorest, P. B., Dolch, T., Ellis,
+	J. A., Ferdman, R. D., Ferrara, E. C., Fonseca, E.,
+	Garver-Daniels, N. Gentile, P., Good, D., Hazboun, J. S.,
+	Holgado, A. M., Huerta, E. A., Islo, K., Jennings, R., Jones,
+	G., Jones, M. L., Kaplan, D. L., Kelley, L. Z., Key, J. S.,
+	Lam, M. T., Lazio, T. J. W., Levin, L., Lorimer, D. R., Luo,
+	J., Lynch, R. S., Madison, D. R., McLaughlin, M. A.,
+	McWilliams, S. T., Mingarelli, C. M. F., Ng, C., Nice, D. J.,
+	Pennucci, T. T., Pol, N. S., Ransom, S. M., Ray, P. S.,
+	Siemens, X., Simon, J., Spiewak, R., Stairs, I. H.,
+	Stinebring, D. R., Stovall, K., Swiggum, J. K., Taylor, S. R.,
+	Vallisneri, M., Van Haasterer, R., Vigeland, S. J., Witt,
+	C. A., and Zhu, W. W.
+	<br>
+	<i>The Astrophysical Journal, 889, 38.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer" href='https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.5702B/abstract'>Linking Long- and Short-Term Emission Variability in
+	  Pulsars.</a>
+	<br>
+	<b>2019</b>
+	<br>
+	<span style="font-size: 24px; color: #9b3739;">Brook,
+	  P. R.</span>, Karastergiou, A., and  Johnston, S.
+	<br>
+	<i>Monthly Notices of the Royal Astronomical Society, 488, 5702.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer" href='https://ui.adsabs.harvard.edu/abs/2019ApJ...880..116A/abstract'>The NANOGrav 11-Year Data Set: Limits on Gravitational Waves from
+	  Individual Supermassive Black Hole Binaries.</a>
+	<br>
+	<b>2019</b>
+	<br>
+	Aggarwal, K., Arzoumanian, Z., Baker, P. T., Brazier, A., Brinson,
+	M. R., <span style="font-size: 24px; color: #9b3739;">Brook, P. R.</span>, Burke-Spolaor, S., Chatterjee, S.,
+	Cordes, J. M., Cornish, N. J., Crawford, F., Crowter, K.,
+	Cromartie, H. T., DeCesar, M., Demorest, P. B., Dolch, T.,
+	Ellis, J. A., Ferdman, R. D., Ferrara, E., Fonseca,
+	E. Garver-Daniels, N., Gentile, P., Hazboun, J. S., Holgado,
+	A. M., Huerta, E. A., Islo, K., Jennings, R., Jones, G.,
+	Jones, M. L., Kaiser, A. R., Kaplan, D. L., Kelley, L. Z.,
+	Key, J. S., Lam, M. T., Lazio, T. J. W., Levin, L., Lorimer,
+	D. R., Luo, J., Lynch, R. S., Madison, D. R., McLaughlin,
+	M. A., McWilliams, S. T., Mingarelli, C. M. F., Ng, C., Nice,
+	D. J., Pennucci, T. T., Pol, N. S., Ransom, S. M., Ray, P. S.,
+	Siemens, X., Simon, J., Spiewak, R., Stairs, I. H.,
+	Stinebring, D. R., Stovall, K., Swiggum, J., Taylor, S. R.,
+	Turner, J. E., Vallisneri, M., van Haasteren, R., Vigeland,
+	S. J., Witt, C. A., and Zhu, W. W.
+	<br>
+	<!--Aggarwal, K. et al. (61 authors, --
+	--including <span style="font-size: 24px; color: --
+			  --#9b3739;">Brook, P. R.</span>).-->
+	<i>The Astrophysical Journal, 880, 116.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer" href='https://ui.adsabs.harvard.edu/abs/2019ApJ...874..160D/abstract'>High-Precision X-ray Timing of Three Millisecond Pulsars
+	  with NICER: Stability Estimates
+	  and Comparison with Radio.</a>
+	<br>
+	<b>2019</b>
+	<br>
+	Deneva, J. S., Ray, P. S., Lommen, A., Ransom, S. M.,
+	Bogdanov, S., Kerr, M., Wood, K. S., Arzoumanian, Z., Black,
+	K., Doty, J., Gendreau, K. C., Guillot, S., Harding, A.,
+	Lewandowska, N., Malacaria, C., Markwardt, C. B., Price, S.,
+	Winternitz, L., Wolff, M. T., Guillemot, L. Cognard, I.,
+	Baker, P. T., Blumer, H., <span style="font-size: 24px; color:
+					       #9b3739;">Brook, P. R.</span>, Cromartie, H. T.,
+	Demorest, P. B., DeCesar, M. E., Dolch, T., Ellis, J. A.,
+	Ferdman, R. D., Ferrara, E. C., Fonseca, E., Garver-Daniels,
+	N., Gentile, P. A., Jones, M. L., Lam, M. T., Lorimer, D. R.,
+	Lynch, R. S., McLaughlin, M. A., Ng, C., Nice, D. J.,
+	Pennucci, T. T., Spiewak, R., Stairs, I. H., Stovall, K.,
+	Swiggum, J. K., Vigeland, S. J., and Zhu, W. W.
+	<br>
+	<!--Deneva, J. S. et al. (48 authors, including
+	<span style="font-size: 24px; color: #9b3739;">Brook, --
+	  --P. R.</span>). -->
+	<i>The Astrophysical Journal, 874, 160.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer" href='https://ui.adsabs.harvard.edu/abs/2019ApJ...872..193L/abstract'>The NANOGrav 12.5-Year Data Set: The Frequency Dependence of Pulse
+	  Jitter in Precision
+	  Millisecond Pulsars.</a>
+	<br>
+	<b>2019</b>
+	<br>
+	Lam, M. T., McLaughlin, M. A., Arzoumanian, Z., Blumer, H.,
+	<span style="font-size: 24px; color:                                   
+		     #9b3739;">Brook, P. R.</span>, Cromartie,
+	H. T., Demorest, P. B., DeCesar,
+	M. E., Dolch, T., Ellis, J. A., Ferdman, R. D., Ferrara,
+	E. C., Fonseca, E., Garver-Daniels, N., Gentile, P. A., Jones,
+	M. L., Lorimer, D. R., Lynch, R. S., Ng, C., Nice,
+	D. J. Pennucci, T. T., Ransom, S. M., Spiewak, R., Stairs,
+	I. H., Stovall, K., Swiggum, J. K., Vigeland, S. J., and Zhu, W. W.
+	<br>
+	<!--Lam, M. T. et al. (28 authors, including <span style="font-size: 24px; color: #9b3739;">Brook,
+	  P. R.</span>).-->
+	<i>The Astrophysical Journal, 872, 193.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer"
+	     href='https://ui.adsabs.harvard.edu/abs/2019ApJ...870...74S/abstract'>PSR
+	  J2234+0611: A New Laboratory for Stellar Evolution.</a>
+	<br>
+	<b>2019</b>
+	<br>
+	Stovall, K., Freire, P. C. C., Antoniadis, J., Bagchi, M.,
+	Deneva, J. S., Garver-Daniels, N., Martinez, J. G.,
+	McLaughlin, M. A., Arzoumanian, Z., Blumer,
+	H., <span style="font-size: 24px; color:#9b3739;">Brook,
+	  P. R.</span>, Cromartie, H. T., Demorest, P. B., DeCesar, M. E., Dolch, T.,
+	Ellis, J. A., Ferdman, R. D., Ferrara, E. C., Fonseca, E.,
+	Gentile, P. A. Jones, M. L., Lam, M. T., Lorimer, D. R.,
+	Lynch, R. S., Ng, C., Nice, D. J., Pennucci, T. T., Ransom,
+	S. M., Spiewak, R., Stairs, I. H., Swiggum, J. K., Vigeland,
+	S. J., and Zhu, W. W.
+	<br>
+	<!--Stovall, K. et al. (33 authors,
+	including <span style="font-size: 24px; color: #9b3739;">Brook,
+	  P. R.</span>).-->
+        <i>The Astrophysical Journal, 870, 74.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer"
+	     href='https://ui.adsabs.harvard.edu/abs/2018ApJ...868..122B/abstract'>The
+	  NANOGrav 11-year Data Set: Pulse Profile Variability.</a>
+	<br>
+	<b>2018</b>
+	<br>
+	<span style="font-size: 24px; color:#9b3739;">Brook, P. R.</span>, Karastergiou, A., McLaughlin, M. A., Lam, M. T.,
+	Arzoumanian, Z., Chatterjee, S., Cordes, J. M., Crowter, K.,
+	DeCesar, M., Demorest, P. B., Dolch, T., Ellis, J. A.,
+	Ferdman, R. D., Ferrara, E., Fonseca, E., Gentile, P. A.,
+	Jones, G., Jones, M. L., Lazio, T. J. W., Levin, L. Lorimer,
+	D. R., Lynch, R. S., Ng, C., Nice, D. J., Pennucci, T. T.,
+	Ransom, S. M., Ray, P. S., Spiewak, R., Stairs, I. H.,
+	Stinebring, D. R., Stovall, K., Swiggum, J. K., and Zhu, W. W.
+	<br>	
+	<!--<span style="font-size: 24px; color: #9b3739;">Brook,
+	  P. R.</span> et al.. -->
+	<i>The Astrophysical Journal, 868, 122.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer" href='https://ui.adsabs.harvard.edu/abs/2018ApJ...861..132L/abstract'>A Second Chromatic Timing Event of Interstellar Origin toward PSR
+	  J1713+0747.</a>
+	<br>
+	<b>2018</b>
+	<br>
+	Lam, M. T., Ellis, J. A., Grillo, G., Jones, M. L., Hazboun,
+	J. S., <span style="font-size: 24px; color:#9b3739;">Brook, P. R.</span>, Turner, J. E., Chatterjee, S., Cordes,
+	J. M., Lazio, T. J. W., DeCesar, M. E., Arzoumanian, Z.,
+	Blumer, H., Cromartie, H. T., Demorest, P. B., Dolch, T.,
+	Ferdman, R. D., Ferrara, E. C., Fonseca, E., Garver-Daniels,
+	N. Gentile, P. A., Gupta, V., Lorimer, D. R., Lynch, R. S.,
+	Madison, D. R., McLaughlin, M. A., Ng, C., Nice, D. J.,
+	Pennucci, T. T., Ransom, S. M., Spiewak, R., Stairs, I. H.,
+	Stinebring, D. R., Stovall, K., Swiggum, J. K., Vigeland,
+	S. J., and Zhu, W. W.
+	<br>
+	<!--Lam, M. T.
+	et al. (37 authors, including <span style="font-size: 24px;
+					    color: #9b3739;">Brook,
+	  P. R.</span>).-->
+	<i>The Astrophysical
+	  Journal, 861, 132.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer" href='https://ui.adsabs.harvard.edu/abs/2016MNRAS.456.1374B/abstract'>Emission-rotation correlation in pulsars: new discoveries with
+	  optimal techniques.</a>
+	<br>
+	<b>2016</b>
+	<br>
+	<span style="font-size: 24px; color: #9b3739;">Brook, P. R.,</span>
+	Karastergiou, A., Johnston, S., Kerr, M., Shannon, R. M., and
+	Roberts, S. J.
+	<br>
+	<i>Monthly Notices of the Royal Astronomical Society, 456,
+	  1374.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer"
+	     href='https://ui.adsabs.harvard.edu/abs/2014ApJ...780L..31B/abstract'>Evidence
+	  of an Asteroid Encountering a Pulsar.</a>
+	<br>
+	<b>2014</b>
+	<br><span style="font-size: 24px; color: #9b3739;">Brook,
+	  P. R.</span>, Karastergiou, A., Buchner, S., Roberts, S. J.,
+	Keith, M. J., Johnston, S., and Shannon, R. M.
+	<br>
+	<i>The Astrophysical
+	  Journal, 780, L31.</i>
+      </li>
+      <li><a target="_blank" rel="noopener noreferrer"
+	     href='https://ui.adsabs.harvard.edu/abs/2013APh....43....3A/abstract'>Introducing
+	  the CTA concept</a>.
+	<br>
+	<b>2013</b>
+	<br>
+	Acharya, B. S. et al. (977 authors including <span style="font-size: 24px; color: #9b3739;">Brook, P. R.</span>)
+	<br>
+	<i>Astroparticle Physics, 43, 3.</i>
+      <li><a target="_blank" rel="noopener noreferrer" href='https://ui.adsabs.harvard.edu/abs/2009A%26A...507..795U/abstract'>The RMS survey. H2O masers towards a sample of southern hemisphere
+	  massive YSO
+	  candidates and ultra compact HII regions.</a>
+	<br>
+	<b>2009</b>
+	<br>
+	Urquhart, J. S., Hoare, M. G., Lumsden, S. L., Oudmaijer,
+	R. D., Moore, T. J. T., <span style="font-size: 24px; color: #9b3739;">Brook, P. R.</span>, Mottram, J. C., Davies,
+	B., and Stead, J. J.
+	<!-- Urquhart, J. S. et al. (9
+	authors including <span style="font-size: 24px; color:
+				#9b3739;">Brook, P. R.</span>)-->
+	<br>
+	<i>Astronomy & Astrophysics, 507, 795.</i>
+      </li>
+    </ol>
+  </body>
+  
+</html>
